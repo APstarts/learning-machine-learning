@@ -43,3 +43,5 @@ for i in range(len(yhat)):
     else:
         yhat[i] = 0
 print(f"yhat: \n{yhat}")
+
+print("Done!")
