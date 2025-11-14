@@ -1,0 +1,2 @@
+def calculator(x: int,y: int) -> int:
+    return x + y
